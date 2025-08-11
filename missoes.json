@@ -1,0 +1,233 @@
+{
+  "usuarios": {
+    "rafael_castro": {
+      "ganhos": [],
+      "perdas": [],
+      "concluidas": [
+        {
+          "descricao": "teste",
+          "valor": 1,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:18:55"
+        },
+        {
+          "descricao": "teste",
+          "valor": 1,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:20:03"
+        },
+        {
+          "descricao": "teste",
+          "valor": 1,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:20:20"
+        },
+        {
+          "descricao": "teste",
+          "valor": 1,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:20:21"
+        },
+        {
+          "descricao": "teste",
+          "valor": 100,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:21:36"
+        },
+        {
+          "descricao": "teste",
+          "valor": 100,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:21:37"
+        },
+        {
+          "descricao": "teste",
+          "valor": 100,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:21:37"
+        },
+        {
+          "descricao": "teste",
+          "valor": 100,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:43:44"
+        },
+        {
+          "descricao": "teste",
+          "valor": 100,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:43:44"
+        }
+      ]
+    },
+    "admin_admin": {
+      "ganhos": [],
+      "perdas": [],
+      "concluidas": [
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:12:09"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:14:08"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:15:49"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:15:51"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:15:51"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:15:52"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:15:53"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:15:53"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:15:54"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:15:55"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "ganho",
+          "quando": "2025-05-26 11:15:55"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:16:57"
+        },
+        {
+          "descricao": "teste",
+          "valor": 9494,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:17:37"
+        },
+        {
+          "descricao": "teste",
+          "valor": 75952,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:18:22"
+        },
+        {
+          "descricao": "teste",
+          "valor": 1,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:19:24"
+        },
+        {
+          "descricao": "teste",
+          "valor": 1,
+          "tipo": "perda",
+          "quando": "2025-05-26 11:20:56"
+        },
+        {
+          "descricao": "teste",
+          "valor": 5,
+          "tipo": "ganho",
+          "quando": "2025-07-30 10:35:34"
+        },
+        {
+          "descricao": "teste",
+          "valor": 15,
+          "tipo": "perda",
+          "quando": "2025-07-30 10:36:46"
+        }
+      ]
+    },
+    "rafa_teste": {
+      "ganhos": [],
+      "perdas": [],
+      "concluidas": []
+    }
+  },
+  "grupos": {
+    "Administrativo": {
+      "ganhos": [],
+      "perdas": [],
+      "concluidas": [
+        {
+          "descricao": "teste",
+          "valor": 10,
+          "tipo": "ganho",
+          "quando": "2025-05-26 14:35:07"
+        },
+        {
+          "descricao": "teste",
+          "valor": 10,
+          "tipo": "ganho",
+          "quando": "2025-05-26 14:35:44"
+        }
+      ]
+    },
+    "tecnologia": {
+      "ganhos": [],
+      "perdas": [],
+      "concluidas": [
+        {
+          "descricao": "teste",
+          "valor": 100,
+          "tipo": "ganho",
+          "quando": "2025-05-26 14:35:20"
+        },
+        {
+          "descricao": "teste",
+          "valor": 100,
+          "tipo": "ganho",
+          "quando": "2025-05-26 14:35:32"
+        },
+        {
+          "descricao": "teste",
+          "valor": 100,
+          "tipo": "perda",
+          "quando": "2025-05-26 14:35:54"
+        },
+        {
+          "descricao": "teste",
+          "valor": 100,
+          "tipo": "perda",
+          "quando": "2025-05-26 14:35:56"
+        }
+      ]
+    }
+  }
+}
