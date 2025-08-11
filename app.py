@@ -1,7 +1,7 @@
 import sys
 import streamlit as st
 import pandas as pd
-import dask.dataframe as dd
+import dask as dd
 import io
 import os
 import time
