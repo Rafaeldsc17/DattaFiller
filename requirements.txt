@@ -2,5 +2,4 @@ streamlit
 dask
 pandas
 preenchimento_planilhas
-openpyxl
 Cred.cred
