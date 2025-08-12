@@ -1,5 +1,3 @@
 streamlit
-dask
+dask[dataframe]
 pandas
-preenchimento_planilhas
-Cred.cred
